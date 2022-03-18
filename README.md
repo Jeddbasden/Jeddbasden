@@ -6,7 +6,7 @@
   
 My name is Jedd Basden. I Love to problem solve and coding! After having the oppurtunity to witness a team of developers work on their own startup project, i fell in love with coding and working on projects. Now i am obsessed with building and bettering projects.
 
-
+  
 ## Connect With me :smile:
   <div>
     <a href="https://www.linkedin.com/in/jeddbasden/">
@@ -19,6 +19,17 @@ My name is Jedd Basden. I Love to problem solve and coding! After having the opp
       <img src="https://img.shields.io/badge/github-black?logo=github&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/jeddbasden/">
-      <img src="https://img.shields.io/badge/discord-purple?logo=discord&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/Yasuke%234992-purple?logo=discord&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
   </div>
+
+  
+  ## Progamming Languages :milky_way:
+   <div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50" width="50" alt="Javascript"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="50" width="50" alt="Python"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50" width="50" alt="React"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50" width="50" alt="React"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50" width="50" alt="React"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50" width="50" alt="React"/>
+   </div>
