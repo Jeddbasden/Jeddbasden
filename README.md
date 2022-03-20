@@ -5,7 +5,7 @@
   <br/>
 <h2 align="center"> About Me :sunglasses:</h2>
   
-<p align="center">My name is Jedd Basden. I Love to problem solve and coding! After having the oppurtunity to witness a team of developers work on their own startup project, i fell in love with coding and working on projects. Now i am obsessed with building and bettering projects. Feel free to look around!</p>
+<p align="center">My name is Jedd Basden. I Love to problem solve and code! After having the oppurtunity to witness a team of developers work on their own startup project, i fell in love with coding and working on projects. Now i am obsessed with building and bettering projects. Feel free to look around!</p>
 
 <br/>
   
