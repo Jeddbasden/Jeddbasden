@@ -17,7 +17,7 @@
     <a href="https://angel.co/u/jedd-basden">
       <img src="https://img.shields.io/badge/angellist-white?logo=angellist&logoColor=black&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://jeddbasden.github.io/about.html">
+    <a href="https://jeddbasden.github.io">
       <img src="https://img.shields.io/badge/portfolio-black?logo=&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
       <img src="https://img.shields.io/badge/Yasuke%234992-purple?logo=discord&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
