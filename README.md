@@ -63,24 +63,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="50" weight="50" alt="VScode" />
     <img src="https://cdn.dribbble.com/users/1057/screenshots/5978248/pug_1x.jpg" height="50" weight="50" alt="Pug" />
   </div>
-  
-  <br/>
-  
-  <h2 align="center"> Projects:construction:</h2>
-  
-<div align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50" weight="50" alt="React" />
-    <p>Project Description here</p>
-  </div>
-  <div align="right">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" height="50" weight="50" alt="Sequelize" />
-    <p>Project Description here</p>
-  </div>
-  <div align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" height="50" weight="50" alt="Mocha" />
-    <p>Project Description here</p>
-  </div>
-  <div align="right">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" height="50" weight="50" alt="Ubuntu" />
-    <p>Project Description here</p>
-  </div>
