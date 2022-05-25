@@ -68,19 +68,19 @@
   
   <h2 align="center"> Projects:construction:</h2>
   
-<div align="center">
+<div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50" weight="50" alt="React" />
     <p>Project Description here</p>
   </div>
-  <div align="center">
+  <div align="right">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" height="50" weight="50" alt="Sequelize" />
     <p>Project Description here</p>
   </div>
-  <div align="center">
+  <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" height="50" weight="50" alt="Mocha" />
     <p>Project Description here</p>
   </div>
-  <div align="center">
+  <div align="right">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" height="50" weight="50" alt="Ubuntu" />
     <p>Project Description here</p>
   </div>
