@@ -36,7 +36,7 @@
 
 <br/>
 
- <h2 align="center"> Technologies, Frameworks, Libraries and Others:floppy_disk:</h2>
+ <h2 align="center"> Technologies, Frameworks, Libraries and Others :floppy_disk:</h2>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50" weight="50" alt="React" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="50" weight="50" alt="Redux" />
