@@ -20,7 +20,7 @@
     <a href="https://jeddbasden.github.io">
       <img src="https://img.shields.io/badge/portfolio-black?logo=&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
-      <img src="https://img.shields.io/badge/Yasuke%234992-purple?logo=discord&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/shangobango-purple?logo=discord&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </div>
 <br/>
   
